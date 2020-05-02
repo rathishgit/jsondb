@@ -1,0 +1,14 @@
+{
+  "posts": [
+    { "id": 1, "PRT Title1": "Post 1" },
+    { "id": 2, "PRT Title2": "Post 2" },
+    { "id": 3, "PRT Title2": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "PRT some comment", "postId": 1 },
+    { "id": 2, "body": "PRT some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
