@@ -3,26 +3,6 @@
   "currentVersion": "1.0.0",
   "newVersion": "4.1.7",
   "fileURL": null,
-  "deviceCommandList": [
-    {
-      "id": 427,
-      "createdOn": 1587123087438,
-      "updatedOn": null,
-      "command": "reboot",
-      "deviceId": 76693,
-      "new": false
-    }
-  ],
-  "debugEnabled": false,
-  "active": true,
-  "planName": "",
-  "planVideoEnabled": true,
-  "planAudioEnabled": true,
-  "planStreamingEnabled": true,
-  "subscriptionEndTime": 1593628199999,
-  "sdFormatDetails": [
-    
-  ],
   "diagnosisId": null,
   "settingsUpdatedOn": 1587014937046,
   "rotatedOn": null,
